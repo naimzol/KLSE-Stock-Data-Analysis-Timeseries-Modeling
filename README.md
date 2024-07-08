@@ -1,4 +1,4 @@
-# KLSE-Stock-Data-Analysis
+# KLSE-Stock-Data-Analysis (Timeseries Modeling)
 This project involves analyzing KLSE stock data using various time series analysis techniques in Pandas. It covers converting date columns, resampling time series data, understanding frequency settings, and handling timezones.
 
 * Converting Date Column from String to DatetimeIndex
